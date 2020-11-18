@@ -8,6 +8,8 @@ namespace dumpGit
         {
             Console.WriteLine("Hello, Duje, this is first commit!");
             Console.WriteLine("Hi Ivna, pleasure to work with you!!!");
+            Console.WriteLine("Third and last commit.");
+
         }
     }
 }
